@@ -1,11 +1,11 @@
 0.0.1
 //Modpack
-https://www.dropbox.com/scl/fi/rwko4lv9obc66xm8ahpug/Mods-1.rar?rlkey=xszjzpkcjdl88mpvkktva9t6q&st=5xbyo5j0&dl=1
-https://www.dropbox.com/scl/fi/x1mzy1l95jpmawx8xq7s7/Mods-2.rar?rlkey=7gdqtibb4orjwusj0zyfxyypn&st=hb3rjw3y&dl=1
-https://www.dropbox.com/scl/fi/73be0aum14lcfjzfqupkj/Mods-3.rar?rlkey=afyqfgtgbqdwa1i0zgrgmzy6g&st=gu7a5zxx&dl=1
-https://www.dropbox.com/scl/fi/nfkce1rromulrx3r607ve/Mods-4.rar?rlkey=7uvmlyx5ivdq9nccuyzxyh5x8&st=ouer8l55&dl=1
-https://www.dropbox.com/scl/fi/35h34uqwsxrl0hcgwz276/Mods-5.rar?rlkey=fbir104mga3uf8ie7mtee5lkf&st=nvv28cpf&dl=1
-https://www.dropbox.com/scl/fi/gif2yjuy3jh23q8qixlc0/Mods-6.rar?rlkey=j1m7u59b2a5085611fj3unpf2&st=aofl70dy&dl=1
+https://www.dropbox.com/scl/fi/7ux4yrsp7mfefgpwuyyd7/Mods-1.zip?rlkey=y3r43g6tnenqe2ypk98vex7dp&st=1g9n5ubc&dl=1
+https://www.dropbox.com/scl/fi/cfxz9ycfpvfm37q9ckneg/Mods-2.zip?rlkey=dujqiu4f285lnvqwty2vvdafc&st=ur4x43nr&dl=1
+https://www.dropbox.com/scl/fi/iz98x0ib88qcb0lwzz2ul/Mods-3.zip?rlkey=iw1j2ywkxwdjjv04qz933zf9q&st=2skm5gmh&dl=1
+https://www.dropbox.com/scl/fi/wunahwz7tcyl3sg84qzwu/Mods-4.zip?rlkey=949whmnjdvgbwbu9yzfi9s7ba&st=q14oxj1m&dl=1
+https://www.dropbox.com/scl/fi/zifp6mae5vjj22p1nozaa/Mods-5.zip?rlkey=c8ac350t7ns91f6v5zer5aafd&st=wn798aen&dl=1
+https://www.dropbox.com/scl/fi/jf8kqu96txl7bkuhq2402/Mods-6.zip?rlkey=1dh8ukclfm8pcl6pj97rzgp6n&st=yjwt1hwz&dl=1
 
 //Config
-https://www.dropbox.com/scl/fi/mzyq55xtb83his7lzaco3/config.rar?rlkey=g6cazhbeas1fnqsdkrffs5989&st=1d3nxbpv&dl=1
+https://www.dropbox.com/scl/fi/9ra1tn46m5orv13j54gww/config.zip?rlkey=sx75tjt5sjspm6pwtplgj7cq3&st=5w4itpbx&dl=1
